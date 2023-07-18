@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deepi\\C# Practice\\July10\\July10\\July10.csproj",
+      "projectUniqueName": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\July10\\July10\\July10.csproj",
       "projectName": "July10",
-      "projectPath": "C:\\Users\\deepi\\C# Practice\\July10\\July10\\July10.csproj",
+      "projectPath": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\July10\\July10\\July10.csproj",
       "packagesPath": "C:\\Users\\deepi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deepi\\C# Practice\\July10\\July10\\obj\\",
+      "outputPath": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\July10\\July10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deepi\\AppData\\Roaming\\NuGet\\NuGet.Config",

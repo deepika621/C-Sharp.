@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepi\\C# Practice\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj": {}
+    "C:\\Users\\deepi\\source\\repos\\C-Sharp\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepi\\C# Practice\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj": {
+    "C:\\Users\\deepi\\source\\repos\\C-Sharp\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepi\\C# Practice\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj",
+        "projectUniqueName": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj",
         "projectName": "EmployeeWage",
-        "projectPath": "C:\\Users\\deepi\\C# Practice\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj",
+        "projectPath": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\EmployeeWage\\EmployeeWage\\EmployeeWage.csproj",
         "packagesPath": "C:\\Users\\deepi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepi\\C# Practice\\EmployeeWage\\EmployeeWage\\obj\\",
+        "outputPath": "C:\\Users\\deepi\\source\\repos\\C-Sharp\\EmployeeWage\\EmployeeWage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepi\\AppData\\Roaming\\NuGet\\NuGet.Config",
