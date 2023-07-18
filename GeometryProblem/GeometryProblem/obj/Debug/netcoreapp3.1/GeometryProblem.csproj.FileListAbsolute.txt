@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.exe
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.deps.json
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.runtimeconfig.json
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.dll
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\bin\Debug\netcoreapp3.1\GeometryProblem.pdb
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.dll
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.pdb
+C:\Users\deepi\C# Practice\GeometryProblem\GeometryProblem\obj\Debug\netcoreapp3.1\GeometryProblem.genruntimeconfig.cache

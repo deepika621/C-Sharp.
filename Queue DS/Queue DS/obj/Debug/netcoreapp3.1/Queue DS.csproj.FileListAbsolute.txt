@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.exe
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.deps.json
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.runtimeconfig.json
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.dll
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\bin\Debug\netcoreapp3.1\Queue DS.pdb
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.dll
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.pdb
+C:\Users\deepi\C# Practice\Queue DS\Queue DS\obj\Debug\netcoreapp3.1\Queue DS.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.exe
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.deps.json
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.json
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.dll
+C:\Users\deepi\C# Practice\Review\Review\bin\Debug\netcoreapp3.1\Review.pdb
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.dll
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.pdb
+C:\Users\deepi\C# Practice\Review\Review\obj\Debug\netcoreapp3.1\Review.genruntimeconfig.cache

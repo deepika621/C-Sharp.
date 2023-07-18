@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.exe
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.deps.json
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.runtimeconfig.json
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.dll
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\bin\Debug\netcoreapp3.1\Stack Implementation.pdb
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.dll
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.pdb
+C:\Users\deepi\C# Practice\Stack Implementation\Stack Implementation\obj\Debug\netcoreapp3.1\Stack Implementation.genruntimeconfig.cache

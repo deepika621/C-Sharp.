@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.exe
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.deps.json
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.runtimeconfig.json
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.dll
+C:\Users\deepi\C# Practice\Stack\Stack\bin\Debug\netcoreapp3.1\StackDS.pdb
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.dll
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.pdb
+C:\Users\deepi\C# Practice\Stack\Stack\obj\Debug\netcoreapp3.1\StackDS.genruntimeconfig.cache

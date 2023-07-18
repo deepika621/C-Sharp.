@@ -1,0 +1,14 @@
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.exe
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.deps.json
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.runtimeconfig.json
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.runtimeconfig.dev.json
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.dll
+C:\Users\deepi\C# Practice\July10\July10\bin\Debug\netcoreapp3.1\July10.pdb
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.csproj.AssemblyReference.cache
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.AssemblyInfoInputs.cache
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.AssemblyInfo.cs
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.csproj.CoreCompileInputs.cache
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.dll
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.pdb
+C:\Users\deepi\C# Practice\July10\July10\obj\Debug\netcoreapp3.1\July10.genruntimeconfig.cache
