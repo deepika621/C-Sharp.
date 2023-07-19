@@ -1,22 +1,23 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Non_Generic_Collections
 {
-    public void HashTable(object sender, EventArgs e)
+    class HT
     {
-        Hashtable ht = new Hashtable();
-        ht.Add("ora", "oracle");
-        ht.Add("vb", "vb.net");
-        ht.Add("cs", "cs.net");
-        ht.Add("asp", "asp.net");
-
-        foreach (DictionaryEntry d in ht)
+        public  void HashTable()
         {
-            Response.Write(d.Key + " " + d.Value);
-            Response.Write("<br>");
+            Hashtable ht = new Hashtable();
+            ht.Add("ora", "oracle");
+            ht.Add("vb", "vb.net");
+            ht.Add("cs", "cs.net");
+            ht.Add("asp", "asp.net");
+
+            foreach (DictionaryEntry d in ht)
+            {
+                Console.WriteLine(d.Key + " " + d.Value);
+                //Response.Write("<br>");
+            }
         }
     }
 }

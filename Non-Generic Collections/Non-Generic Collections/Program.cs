@@ -5,9 +5,9 @@ namespace Non_Generic_Collections
 {
     class Program
     {
-        public void ArrayLists()
+        protected void ArrayLists()
         {
-            /*(ArrayList al = new ArrayList();
+            ArrayList al = new ArrayList();
             string str = "Kasarla Deepika";
             int x = 7;
             DateTime d = DateTime.Parse("21-jul-2000");
@@ -19,8 +19,8 @@ namespace Non_Generic_Collections
             {
                 Console.WriteLine(o);
                 //Console.Write("<br>");
-            }*/
-            Hash.HashTable();
+            }
+            //HT.HashTable();
         }
     }
 }
