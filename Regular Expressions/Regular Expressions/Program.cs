@@ -7,7 +7,7 @@ namespace Regular_Expressions
     {
         static void Main(string[] args)
         {
-            string[] str = {"500009",
+            /*string[] str = {"500009",
           "888686", "456734","098765","23456"};
 
             foreach (string s in str)
@@ -16,11 +16,12 @@ namespace Regular_Expressions
                             isValidPinCode(s) ? "is" : "is not");
             }
 
-            Console.ReadKey();
+            Console.ReadKey();*/
+            FirstnameLastname.FN_LN();
            // RE.EmailID();
         }
         // method containing the regex
-        public static bool isValidPinCode(string inputPinCode)
+        /*public static bool isValidPinCode(string inputPinCode)
         {
             // The ^ and $ characters are achors that specify that the string should start and end patteen,respectively
             //[1-9] matches any digit from 1 to 9
@@ -34,6 +35,6 @@ namespace Regular_Expressions
                 return (true);
             else
                 return (false);
-        }
+        }*/
     }
 }
