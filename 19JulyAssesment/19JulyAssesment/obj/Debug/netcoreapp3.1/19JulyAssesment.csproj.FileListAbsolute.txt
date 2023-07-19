@@ -1,0 +1,14 @@
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.exe
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.deps.json
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.runtimeconfig.json
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.runtimeconfig.dev.json
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.dll
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\bin\Debug\netcoreapp3.1\19JulyAssesment.pdb
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.csproj.AssemblyReference.cache
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.AssemblyInfoInputs.cache
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.AssemblyInfo.cs
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.csproj.CoreCompileInputs.cache
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.dll
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.pdb
+C:\Users\deepi\source\repos\C-Sharp\19JulyAssesment\19JulyAssesment\obj\Debug\netcoreapp3.1\19JulyAssesment.genruntimeconfig.cache
