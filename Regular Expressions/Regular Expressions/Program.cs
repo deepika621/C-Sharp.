@@ -17,7 +17,8 @@ namespace Regular_Expressions
             }
 
             Console.ReadKey();*/
-            FirstnameLastname.FN_LN();
+            //FirstnameLastname.FN_LN();
+            Username.UN();
            // RE.EmailID();
         }
         // method containing the regex
